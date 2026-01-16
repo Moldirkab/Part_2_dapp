@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "ethers": "^6.16.0"
+  },
+  "devDependencies": {
+    "vite": "^7.3.1"
+  }
+}
